@@ -10,6 +10,10 @@
     .mob-menu-soc-list {
         width: 328px;
     }
+
+    .portfolio-example {
+        width: 396px;
+        }
 }
 
 @media screen and (max-width: 767px) {

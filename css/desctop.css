@@ -125,4 +125,14 @@ address {
 .subscribe-btn {
     border: 1px solid #000000;
 }
+
+.portfolio-example-list {
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.portfolio-example {
+    flex-basis: calc((100% - 48px) / 3);
+}
+
 }
