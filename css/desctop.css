@@ -121,7 +121,8 @@ address {
 .footer-container {
     gap: 80px;
 }
+
+.subscribe-btn {
+    border: 1px solid #000000;
 }
-
-
-
+}
