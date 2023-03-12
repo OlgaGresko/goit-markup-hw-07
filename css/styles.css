@@ -167,7 +167,7 @@ img {
 }
 
 .mob-menu-link:is(:hover, :focus) {
-    color: var(--primary-brand-color);
+    color: var(--pressed-state-color);
 }
 
 .mob-menu-phone {

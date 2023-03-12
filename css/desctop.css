@@ -122,8 +122,18 @@ address {
     gap: 80px;
 }
 
+.subscribe-form-input {
+    width: 264px;
+}
+
 .subscribe-btn {
     border: 1px solid #000000;
+}
+
+/* ---------------PORTFOLIO---------------- */
+
+.portfolio-btn-list {
+    justify-content: center;
 }
 
 .portfolio-example-list {
@@ -134,5 +144,4 @@ address {
 .portfolio-example {
     flex-basis: calc((100% - 48px) / 3);
 }
-
 }
