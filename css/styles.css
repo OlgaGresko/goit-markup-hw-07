@@ -85,6 +85,8 @@ img {
     padding: 0;
     border: none;
     background-color: #fff;
+
+    cursor: pointer;
 }
 
 .mob-menu-icon {
